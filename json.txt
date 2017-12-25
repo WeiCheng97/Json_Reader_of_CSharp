@@ -1,0 +1,284 @@
+{
+"type":[
+{
+	"say":"Duang",
+	"key":"DUANG",
+	"face":"p0.JPG",
+	"audio":"duang2.mp3",
+	"aid":8539700,
+	"time":24
+},
+{
+	"say":"加特技~",
+	"key":"JTJ",
+	"face":"p1.JPG",
+	"audio":"duang1.mp3",
+	"aid":8539700,
+	"time":24
+},
+{
+	"say":"万万没想到啊",
+	"key":"WWMXD",
+	"face":"p2.JPG",
+	"audio":"dali1.mp3",
+	"aid":1522050,
+	"time":59
+},
+{
+	"say":"大力出奇迹",
+	"key":"DLCQJ",
+	"face":"p4.JPG",
+	"audio":"dali2.mp3",
+	"aid":1522050,
+	"time":185
+},
+{
+	"say":"浑身难受",
+	"key":"HSNS",
+	"face":"p3.JPG",
+	"audio":"dali3.mp3",
+	"aid":1522050,
+	"time":246
+},
+{
+	"say":"裆里有腊肠啊？",
+	"key":"DLYLCA",
+	"face":"p6.JPG",
+	"audio":"feifan1.mp3",
+	"aid":13361954,
+	"time":1
+},
+{
+	"say":"报告非凡锅，我干嘛啵你嘴？",
+	"key":"BGFFG",
+	"face":"p5.JPG",
+	"audio":"feifan2.mp3",
+	"aid":13361954,
+	"time":43
+},
+{
+	"say":"刘醒",
+	"key":"LX",
+	"face":"p7.JPG",
+	"audio":"feifan3.mp3",
+	"aid":13361954,
+	"time":45
+},
+{
+	"say":"吔屎拉，梁非凡！",
+	"key":"YSLLFF",
+	"face":"p8.JPG",
+	"audio":"feifan4.mp3",
+	"aid":13361954,
+	"time":70
+},
+{
+	"say":"我来！",
+	"key":"WL",
+	"face":"p10.JPG",
+	"audio":"gp1.mp3",
+	"aid":10429,
+	"time":45
+},
+{
+	"say":"人群当中钻出来一个光头",
+	"key":"YGGT",
+	"face":"p9.JPG",
+	"audio":"gp2.mp3",
+	"aid":10429,
+	"time":50
+},
+{
+	"say":"喔！哈哈哈哈哈哈哈！",
+	"key":"WHHHHHHH",
+	"face":"p11.JPG",
+	"audio":"jgz1.mp3",
+	"aid":4436039,
+	"time":60
+},
+{
+	"say":"金坷垃！",
+	"key":"JKLFZ",
+	"face":"p13.JPG",
+	"audio":"jkl1.mp3",
+	"aid":3643130,
+	"time":45
+},
+{
+	"say":"金坷垃！金坷垃！",
+	"key":"JKLJKL",
+	"face":"p12.JPG",
+	"audio":"jkl3.mp3",
+	"aid":3643130,
+	"time":85
+},
+{
+	"say":"呵呵呵呵呵呵呵呵~",
+	"key":"SHHHHHHHH",
+	"face":"p33.JPG",
+	"audio":"sg1.mp3",
+	"aid":15733905,
+	"time":150
+},
+{
+	"say":"呵呵呵呵哈哈哈哈~",
+	"key":"ZHHHHHHHH",
+	"face":"p22.JPG",
+	"audio":"sg2.mp3",
+	"aid":15733905,
+	"time":260
+},
+{
+	"say":"竟说出如此粗鄙之语",
+	"key":"JSCRCCBZY",
+	"face":"p23.JPG",
+	"audio":"sg3.mp3",
+	"aid":15733905,
+	"time":274
+},
+{
+	"say":"王司徒",
+	"key":"WST",
+	"face":"p24.JPG",
+	"audio":"sg4.mp3",
+	"aid":15733905,
+	"time":330
+},
+{
+	"say":"你你...",
+	"key":"NN",
+	"face":"p21.JPG",
+	"audio":"sg5.mp3",
+	"aid":15733905,
+	"time":360
+},
+{
+	"say":"诸葛村夫",
+	"key":"ZGCF",
+	"face":"p29.JPG",
+	"audio":"sg6.mp3",
+	"aid":15733905,
+	"time":360
+},
+{
+	"say":"住口",
+	"key":"ZK",
+	"face":"p26.JPG",
+	"audio":"sg7.mp3",
+	"aid":15733905,
+	"time":365
+},
+{
+	"say":"无耻老贼",
+	"key":"WCLZ",
+	"face":"p27.JPG",
+	"audio":"sg8.mp3",
+	"aid":15733905,
+	"time":365
+},
+{
+	"say":"皆愿生啖你肉，安敢在此饶舌！",
+	"key":"AGZCRS",
+	"face":"p27.JPG",
+	"audio":"sg9.mp3",
+	"aid":15733905,
+	"time":365
+},
+{
+	"say":"皓首匹夫，苍髯老贼！",
+	"key":"HSPFCRLZ",
+	"face":"p28.JPG",
+	"audio":"sg10.mp3",
+	"aid":15733905,
+	"time":390
+},
+{
+	"say":"喔！喔！",
+	"key":"WOWO",
+	"face":"p25.JPG",
+	"audio":"sg11.mp3",
+	"aid":15733905,
+	"time":395
+},
+{
+	"say":"我从未见过有如此厚颜无耻之人！",
+	"key":"WCWJGYRCHYWCZR",
+	"face":"p31.JPG",
+	"audio":"sg12.mp3",
+	"aid":15733905,
+	"time":415
+},
+{
+	"say":"啊啊啊~~~~",
+	"key":"AAA",
+	"face":"p32.JPG",
+	"audio":"sg13.mp3",
+	"aid":15733905,
+	"time":425
+},
+{
+	"say":"大王要我来巡山啊~",
+	"key":"DWYWLXSA",
+	"face":"p15.JPG",
+	"audio":"xs1.mp3",
+	"aid":1056533,
+	"time":1
+},
+{
+	"say":"伊尔哟伊尔伊尔哟~",
+	"key":"YRYYRYRY",
+	"face":"p15.JPG",
+	"audio":"xs2.mp3",
+	"aid":1056533,
+	"time":1
+},
+{
+	"say":"吔屎了你~",
+	"key":"YSLN",
+	"face":"p14.JPG",
+	"audio":"xy1.mp3",
+	"aid":3557261,
+	"time":235
+},
+{
+	"say":"气死我嘞？",
+	"key":"QSWL",
+	"face":"p16.JPG",
+	"audio":"ys1.mp3",
+	"aid":13420453,
+	"time":170
+},
+{
+	"say":"*&*￥@搞比利？",
+	"key":"GBL",
+	"face":"p19.JPG",
+	"audio":"ys2.mp3",
+	"aid":13420453,
+	"time":178
+},
+{
+	"say":"@#￥@￥%斯大林？",
+	"key":"SDL",
+	"face":"p20.JPG",
+	"audio":"ys3.mp3",
+	"aid":13420453,
+	"time":200
+},
+{
+	"say":"%……#￥%@￥@&%&#@￥我到河北省来？",
+	"key":"WDHBSL",
+	"face":"p18.JPG",
+	"audio":"ys4.mp3",
+	"aid":13420453,
+	"time":210
+},
+{
+	"say":"@￥&…渣渣？",
+	"key":"ZZ",
+	"face":"p17.JPG",
+	"audio":"ys5.mp3",
+	"aid":13420453,
+	"time":160
+}
+]
+}

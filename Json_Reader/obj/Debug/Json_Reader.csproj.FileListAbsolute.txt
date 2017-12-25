@@ -1,0 +1,9 @@
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\bin\Debug\Json_Reader.exe.config
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\bin\Debug\Json_Reader.exe
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\bin\Debug\Json_Reader.pdb
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\bin\Debug\Newtonsoft.Json.dll
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\bin\Debug\Newtonsoft.Json.xml
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\obj\Debug\Json_Reader.csprojResolveAssemblyReference.cache
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\obj\Debug\Json_Reader.csproj.CoreCompileInputs.cache
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\obj\Debug\Json_Reader.exe
+c:\users\weicheng\documents\visual studio 2017\Projects\Json_Reader\Json_Reader\obj\Debug\Json_Reader.pdb
